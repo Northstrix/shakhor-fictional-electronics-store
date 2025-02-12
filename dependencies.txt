@@ -1,0 +1,8 @@
+npm install framer-motion --legacy-peer-deps
+npm install gsap --legacy-peer-deps
+npm install @tabler/icons-react --legacy-peer-deps
+npm install styled-components --legacy-peer-deps
+npm i motion clsx tailwind-merge
+npm i @tsparticles/react @tsparticles/engine @tsparticles/slim
+npm install @tabler/icons-react --legacy-peer-deps
+npm install react-icons
