@@ -1,13 +1,33 @@
 # shakhor-fictional-electronics-store
-A fictional electronics store landing page created using Next.js, Perplexity, Namer UI, Aceternity UI, and HextaUI
+A fictional electronics store landing page created using [Next.js](https://nextjs.org/), [Perplexity](https://www.perplexity.ai/), [Namer UI](https://namer-ui.netlify.app/), [Aceternity UI](https://ui.aceternity.com/), and [HextaUI](https://hextaui.com/)
+
+![Alt Screenshot](https://github.com/Northstrix/shakhor-fictional-electronics-store/blob/main/Next.js-shakhor.png?raw=true)
 
 Live demo: https://shakhor-fictional-electronics-store.netlify.app/
+
+## Telegram Widget Disclaimer
+The person, name, and sales pitch demonstrated in this Telegram widget are entirely fictitious. Any similarity to actual individual(s) or business(es) is purely coincidental and unintentional. NamerStore is a fictional entity used for illustrative purposes only.
+
+This widget is a conceptual design prototype created for demonstrative and educational purposes and does not represent an actual commercial offering. The store name is fictional; any resemblance to existing business(es) is entirely coincidental and unintentional.
+
+## Legal Notice and Website Disclaimer
+This website and all its contents are for informational and demonstrative purposes only. The products, services, pricing, and company information presented herein are entirely fictional and created solely for design and portfolio demonstration.
+
+All product names, logos, brands, and other identifiers are hypothetical and do not represent real commercial offerings. Any similarity to actual products or services is purely coincidental.
+Prices, specifications, and descriptions are purely imaginative and not based on actual market products.
+No commercial transactions can or should be conducted through this platform.
+All trademarks, service marks, trade names, and brand identifiers mentioned or displayed on this website are the property of their respective owners, even if not explicitly stated. Their use here is for demonstration purposes only and does not imply any affiliation with or endorsement by the trademark owners.
+This website may contain fictional representations of trademarked elements. These are used strictly for illustrative purposes within this conceptual design showcase.
+
+By proceeding, you acknowledge that this is a conceptual design showcase and understand that no real commercial relationship is implied or established. You also recognize that any brand identifiers or trademarks displayed are the property of their respective owners and are used here solely for demonstrative purposes.
 
 # Credit
 
 The existence of this project (at least in its current form) wouldn't've been possible without the following:
 
 [Chronicle Button](https://codepen.io/Haaguitos/pen/OJrVZdJ) by [Haaguitos](https://codepen.io/Haaguitos)
+
+[Cards with inverted border-radius #scss](https://codepen.io/kristen17/pen/pomgrKp) by [Kristen](https://codepen.io/kristen17)
 
 [Named scroll-timeline vertical](https://codepen.io/utilitybend/pen/VwBRNwm) by [utilitybend](https://codepen.io/utilitybend)
 
