@@ -36,6 +36,15 @@ const Credit: React.FC<CreditProps> = ({ onClose }) => {
             </a>
           </li>
           <li>
+            <a href="https://codepen.io/kristen17/pen/pomgrKp" target="_blank" rel="noopener noreferrer" className="credit-link">
+              Cards with inverted border-radius #scss
+            </a>{" "}
+            by{" "}
+            <a href="https://codepen.io/kristen17" target="_blank" rel="noopener noreferrer" className="credit-link">
+              Kristen
+            </a>
+          </li>
+          <li>
             <a href="https://codepen.io/utilitybend/pen/VwBRNwm" target="_blank" rel="noopener noreferrer" className="credit-link">
               Named scroll-timeline vertical
             </a>{" "}
